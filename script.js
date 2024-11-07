@@ -1,4 +1,4 @@
-const keyWebPageTemp = '6a98d033df7226983b3920af0398cfdd';
+const keyWebPageTemp = '';
 
 async function clickButton() {
 
