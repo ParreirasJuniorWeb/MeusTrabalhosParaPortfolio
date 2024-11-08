@@ -37,4 +37,4 @@ Desafio enfrentado: implementar o recurso de salvar as tarefas em navegador clie
 22. Carrosel com CSS apenas: Desenvolvi um efeito de carrosel utilizando HTML, CSS e Javascript. Implementei a funcionalidade de mover um card de imagem em um efeito de carrosel.
 23. Barra de navegação web responsiva: Desenvolvi um cabeçalho transparente e com uma imagem de fundo em HTML, CSS. Implementei o recurso da responsividade e uso de prorpiedades em css para o layout responsivo e criação do efeito de animação da barra.
 
-24. Atenciosamente, John Victor Parreiras.
+Atenciosamente, John Victor Parreiras.
